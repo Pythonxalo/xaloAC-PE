@@ -1,5 +1,7 @@
 # 🛡️ xaloAC - Güvenli Tersine Mühendislik ve İkilik Analiz Aracı
 
+https://discord.gg/psq6P3fVvN
+
 **xaloAC**, devlet kurumları, kritik altyapılar ve siber güvenlik analistleri için geliştirilmiş, `.exe` ve `.dll` uzantılı taşınabilir çalıştırılabilir (PE) dosyalarını otomatik olarak ayrıştıran (decompile) ve analiz eden gelişmiş bir siber güvenlik aracıdır.
 
 Bu araç, hedef yazılımın mimarisini otomatik olarak tespit ederek uygun tersine mühendislik motorunu (ILSpy veya Ghidra) devreye sokar ve kaynak kodları analiz edilebilir formatta dışa aktarır.
