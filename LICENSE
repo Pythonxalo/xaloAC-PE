@@ -1,21 +1,38 @@
-MIT License
+================================================================================
+                    xaloAC YAZILIM LİSANS SÖZLEŞMESİ
+================================================================================
+Telif Hakkı (c) 2026 xaloAC - Tüm Hakları Saklıdır.
+Marka Sahibi ve Geliştirici: x410m1s0
 
-Copyright (c) 2026 Pythonxalo
+Bu yazılım ve ilgili tüm belgeler ("Yazılım"), x410m1s0 (Yazarı) mülkiyetindedir
+ve uluslararası telif hakkı yasaları ile korunmaktadır.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+İşbu Yazılımı indiren, kopyalayan veya kullanan her gerçek veya tüzel kişi, 
+aşağıdaki şartları kayıtsız şartsız kabul etmiş sayılır:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. KULLANIM İZNİ VE KISITLAMALAR
+   - Bu Yazılım, yalnızca ticari olmayan, kişisel ve eğitim amaçlı kullanım
+     için ücretsiz olarak kullanılabilir.
+   - Devlet kurumları, adli bilişim laboratuvarları ve kritik altyapı analizleri 
+     için kullanım hakları saklıdır ve yazardan özel yazılı izin alınmalıdır.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. YASAKLAR
+   - Bu Yazılımın kaynak kodları, bütünü veya bir parçası değiştirilerek, 
+     üzerine yeni bir marka koyularak veya mevcut marka (xaloAC) silinerek 
+     BAŞKA HİÇBİR YERDE DAĞITILAMAZ.
+   - Bu Yazılım, yazılı izin olmaksızın ücretli veya ücretsiz bir ürün/hizmet 
+     içerisinde TİCARİ AMAÇLA SATILAMAZ veya kiralanamaz.
+   - Kodların parçalanıp başka projelere entegre edilmesi kesinlikle yasaktır.
+
+3. MARKA KORUMASI
+   - "xaloAC" ismi ve markası yazara aittir. Yazılımın dağıtıldığı her yerde 
+     "Marka Sahibi: x410m1s0" ibaresinin bulunması zorunludur.
+
+4. GARANTİ YOKTUR (AS-IS)
+   - Bu Yazılım "olduğu gibi" sunulmaktadır. Geliştirici, Yazılımın kullanımı
+     esnasında doğabilecek veri kayıplarından, sistem çökmelerinden veya adli
+     süreçlerdeki olası hatalardan hiçbir şekilde hukuki olarak sorumlu tutulamaz.
+
+================================================================================
+İletişim ve Lisans İzinleri İçin Geliştiriciyle İrtibata Geçiniz.
+================================================================================
